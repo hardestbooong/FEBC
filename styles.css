@@ -1,3 +1,9 @@
-.demo{
-    color: aliceblue;
+h1{
+    color: rebeccapurple;
+    text-align: center;
+}
+
+body{
+    background-color: beige;
+    align-items: center;
 }
